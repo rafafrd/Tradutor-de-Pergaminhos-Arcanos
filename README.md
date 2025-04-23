@@ -65,7 +65,7 @@ video_url = st.text_input(
    GEMINI_API_KEY=sua_chave_secreta_aqui
    
 6. **Invocar o Espírito do Conhecimento:**
-    streamlit run src/main.py
+    ```streamlit run src/main.py```
 ---
 
 ⚠️ Maldições Conhecidas (Problemas Comuns)
