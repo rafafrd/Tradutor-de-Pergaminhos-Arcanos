@@ -63,6 +63,7 @@ video_url = st.text_input(
 ---
 
 ⚠️ Maldições Conhecidas (Problemas Comuns)
+
 "Os espíritos se recusam a responder": Verifique sua chave API do Gemini
 
 "Pergaminho protegido por feitiços": O vídeo pode não ter legendas
