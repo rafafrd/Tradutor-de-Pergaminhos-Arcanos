@@ -63,8 +63,8 @@ video_url = st.text_input(
 5. **Configurar a Chave de Invocação:**
    Crie um arquivo .env na raiz do projeto com:
    GEMINI_API_KEY=sua_chave_secreta_aqui
-
-5.**Invocar o Espírito do Conhecimento:**
+   
+6. **Invocar o Espírito do Conhecimento:**
     streamlit run src/main.py
 ---
 
