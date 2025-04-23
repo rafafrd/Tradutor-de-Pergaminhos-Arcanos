@@ -46,15 +46,21 @@ video_url = st.text_input(
 
 2. **Entrar no Grimório:**
    Coloque no terminal
+   
+   ```
    cd Tradutor-de-Pergaminhos-Arcanos
+   
    python -m venv venv
-  .venv/bin/activate         # Linux/Mac
-  .venv\Scripts\activate     # Windows
+   ```
+   
+```.venv/bin/activate ```        # Linux/Mac
+   
+```.venv\Scripts\activate```   # Windows
 
-3. **Instalar requisitos:**
+4. **Instalar requisitos:**
    pip install -r requirements.txt
 
-4. **Configurar a Chave de Invocação:**
+5. **Configurar a Chave de Invocação:**
    Crie um arquivo .env na raiz do projeto com:
    GEMINI_API_KEY=sua_chave_secreta_aqui
 
