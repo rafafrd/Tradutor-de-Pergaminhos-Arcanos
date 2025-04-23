@@ -49,7 +49,9 @@ video_url = st.text_input(
    
    ```
    cd Tradutor-de-Pergaminhos-Arcanos
-   
+   ```
+3. **Invocar o Grimório:**
+   ```
    python -m venv venv
    ```
    
