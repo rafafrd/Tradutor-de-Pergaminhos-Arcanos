@@ -47,17 +47,15 @@ video_url = st.text_input(
 2. **Entrar no Grimório:**
    Coloque no terminal
    
-   ```
-   cd Tradutor-de-Pergaminhos-Arcanos
-   ```
+   ```cd Tradutor-de-Pergaminhos-Arcanos```
+   
 3. **Invocar o Grimório:**
-   ```
-   python -m venv venv
-   ```
    
-```.venv/bin/activate ```        # Linux/Mac
+   ```python -m venv venv```
    
-```.venv\Scripts\activate```   # Windows
+   ```.venv/bin/activate```        # Linux/Mac
+   
+   ```.venv\Scripts\activate```    # Windows
 
 4. **Instalar requisitos:**
    pip install -r requirements.txt
